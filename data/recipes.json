@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1,
+        "recipes":
+        [
+            
+            {
+                "recipeName":"Vadapoo Cutlet",
+                "recipeImg": "https://i.ibb.co/CH4nsFd/eh8f18dg-vadapoo-625x300-31-March-23.webp",
+                "ingredients":
+                ["3 Cups banana blossom, cleaned and finely chopped","500 Gram potatoes, boiled, peeled and mashed","5 cloves garli","2 sprigs curry leaves, finely chopped","5 green chillies, finely chopped"],
+                "rating": 4.5
+            },
+            
+            {
+                "recipeName":"Andhra Style Guntur Idli Recipe",
+                "recipeImg": "https://i.ibb.co/YjGZ73F/3ktasg1-podi-idli-625x300-13-March-23.jpg",
+                "ingredients":
+                ["5-6 steamed idlis","7-8 guntur chilies","11/2 Tbsp tur dal","11/2 Tbsp chana dal","11/2 Tbsp urad dal"],
+                "rating": 4.0
+            },
+           
+            {
+                "recipeName":"Keerai Molagootal Recipe",
+                "recipeImg": "https://i.ibb.co/MR5BVQQ/vkhj6aao-spinach-625x300-23-October-19.jpg",
+                "ingredients":
+                ["1 tsp oil","2 tsp urad dal","3 whole red chillies","1/2 cup grated coconut","1 tsp cumin seeds"],
+                "rating": 4.7
+            }
+
+        ]
+    },
+    {
+        "id": 2,
+        "recipes":
+        [
+            
+            {
+                "recipeName":"Kozhukattais Recipe",
+                "recipeImg": "https://i.ibb.co/7rfw4Hf/l7ot4vjg-idli-625x300-09-September-21.jpg",
+                "ingredients":
+                ["3 Cups banana blossom, cleaned and finely chopped","500 Gram potatoes, boiled, peeled and mashed","5 cloves garli","2 sprigs curry leaves, finely chopped","5 green chillies, finely chopped"],
+                "rating": 4.2
+            },
+            
+            {
+                "recipeName":"Chicken Kondattam Recipe",
+                "recipeImg": "https://i.ibb.co/V9Fc2LN/mthfpbvo-chicken-555-625x300-03-February-21.jpg",
+                "ingredients":
+                ["5-6 steamed idlis","7-8 guntur chilies","11/2 Tbsp tur dal","11/2 Tbsp chana dal","11/2 Tbsp urad dal"],
+                "rating": 4.1
+            },
+           
+            {
+                "recipeName":"Sooji Appam Recipe",
+                "recipeImg": "https://i.ibb.co/tC3BQds/mdvmmk0g-appam-625x300-15-September-20.jpg",
+                "ingredients":
+                ["1 tsp oil","2 tsp urad dal","3 whole red chillies","1/2 cup grated coconut","1 tsp cumin seeds"],
+                "rating": 4.9
+            }
+
+        ]
+    },
+    {
+        "id": 3,
+        "recipes":
+        [
+            
+            {
+                "recipeName":"Lemon Rice Recipe",
+                "recipeImg": "https://i.ibb.co/TwShBg4/vermicelli-upma-620x330-41516168354.jpg",
+                "ingredients":
+                ["3 Cups banana blossom, cleaned and finely chopped","500 Gram potatoes, boiled, peeled and mashed","5 cloves garli","2 sprigs curry leaves, finely chopped","5 green chillies, finely chopped"],
+                "rating": 4.5
+            },
+            
+            {
+                "recipeName":"Kabab-E-Khaas Recipe",
+                "recipeImg": "https://i.ibb.co/sWxm9wx/Kababe-Khaas-330.jpg",
+                "ingredients":
+                ["5-6 steamed idlis","7-8 guntur chilies","11/2 Tbsp tur dal","11/2 Tbsp chana dal","11/2 Tbsp urad dal"],
+                "rating": 4.5
+            },
+           
+            {
+                "recipeName":"Aamras Recipe",
+                "recipeImg": "https://i.ibb.co/6D8W45c/ar20d1t8-mango-panna-cotta-625x300-08-July-20.jpg",
+                "ingredients":
+                ["1 tsp oil","2 tsp urad dal","3 whole red chillies","1/2 cup grated coconut","1 tsp cumin seeds"],
+                "rating": 4.5
+            }
+
+        ]
+    },
+    {
+        "id": 4,
+        "recipes":
+        [
+            
+            {
+                "recipeName":"Spicy Creamy Kadai Chicken Recipe",
+                "recipeImg": "https://i.ibb.co/d0WNnm9/3q2kd9h-chicken-curry-625x300-08-July-21.jpg",
+                "ingredients":
+                ["3 Cups banana blossom, cleaned and finely chopped","500 Gram potatoes, boiled, peeled and mashed","5 cloves garli","2 sprigs curry leaves, finely chopped","5 green chillies, finely chopped"],
+                "rating": 4.4
+            },
+            
+            {
+                "recipeName":"Methi Paneer Recipe",
+                "recipeImg": "https://i.ibb.co/kKCsQcW/methipaneer-333.jpg",
+                "ingredients":
+                ["5-6 steamed idlis","7-8 guntur chilies","11/2 Tbsp tur dal","11/2 Tbsp chana dal","11/2 Tbsp urad dal"],
+                "rating": 4.5
+            },
+           
+            {
+                "recipeName":"Thekua Recipe",
+                "recipeImg": "https://i.ibb.co/QrrVZYs/1ivb9hq-thekua-625x300-13-November-18.jpg",
+                "ingredients":
+                ["1 tsp oil","2 tsp urad dal","3 whole red chillies","1/2 cup grated coconut","1 tsp cumin seeds"],
+                "rating": 4.5
+            }
+
+        ]
+    },
+    {
+        "id": 5,
+        "recipes":
+        [
+            
+            {
+                "recipeName":"Soya Uttappams Recipe",
+                "recipeImg": "https://i.ibb.co/HgphfPp/uttapam-620x330-51507270700.jpg",
+                "ingredients":
+                ["3 Cups banana blossom, cleaned and finely chopped","500 Gram potatoes, boiled, peeled and mashed","5 cloves garli","2 sprigs curry leaves, finely chopped","5 green chillies, finely chopped"],
+                "rating": 4.5
+            },
+            
+            {
+                "recipeName":"Chicken 65 Kerala Style Recipe",
+                "recipeImg": "https://i.ibb.co/TkY0s5n/qaipa83-chicken-625x300-13-November-19.jpg",
+                "ingredients":
+                ["5-6 steamed idlis","7-8 guntur chilies","11/2 Tbsp tur dal","11/2 Tbsp chana dal","11/2 Tbsp urad dal"],
+                "rating": 4.5
+            },
+           
+            {
+                "recipeName":"Kozhukattais Recipe",
+                "recipeImg": "https://i.ibb.co/7rfw4Hf/l7ot4vjg-idli-625x300-09-September-21.jpg",
+                "ingredients":
+                ["1 tsp oil","2 tsp urad dal","3 whole red chillies","1/2 cup grated coconut","1 tsp cumin seeds"],
+                "rating": 4.5
+            }
+
+        ]
+    },
+    {
+        "id": 6,
+        "recipes":
+        [
+            
+            {
+                "recipeName":"Vazakai Chops (Raw Banana) Recipe",
+                "recipeImg": "https://i.ibb.co/6wF7y4G/vazakai-poriyal-raw-banana-new.jpg",
+                "ingredients":
+                ["3 Cups banana blossom, cleaned and finely chopped","500 Gram potatoes, boiled, peeled and mashed","5 cloves garli","2 sprigs curry leaves, finely chopped","5 green chillies, finely chopped"],
+                "rating": 4.5
+            },
+            
+            {
+                "recipeName":"Sattu Parantha Recipe",
+                "recipeImg": "https://i.ibb.co/6m177kb/dpgfpu58-paratha-625x300-14-February-21.jpg",
+                "ingredients":
+                ["5-6 steamed idlis","7-8 guntur chilies","11/2 Tbsp tur dal","11/2 Tbsp chana dal","11/2 Tbsp urad dal"],
+                "rating": 4.5
+            },
+           
+            {
+                "recipeName":"Methi Paneer Recipe",
+                "recipeImg": "https://i.ibb.co/kKCsQcW/methipaneer-333.jpg",
+                "ingredients":
+                ["1 tsp oil","2 tsp urad dal","3 whole red chillies","1/2 cup grated coconut","1 tsp cumin seeds"],
+                "rating": 4.5
+            }
+
+        ]
+    }
+]
